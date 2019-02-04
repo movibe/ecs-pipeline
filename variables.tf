@@ -77,7 +77,7 @@ variable "container_port" {
 # Github Repository Owner
 variable "git_repository_owner" {
   description = "Github Repository Owner"
-  default     = "msfidelis"
+  default     = "movibe"
 }
 
 # Github Repository Project Name
